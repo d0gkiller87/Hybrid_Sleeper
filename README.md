@@ -12,6 +12,8 @@ Hibrid_Sleep.bat - English Version
 ## Require / 最低要求:
 Windows 7 or Above. / Win7或更高版本。
 
+![Screenshot](Screenshot.PNG)
+
 ## 名詞說明 / Nouns Meaning Explain in Chinese：
 休眠 & 混合式睡眠(交互式睡眠) & 睡眠
 
