@@ -10,7 +10,7 @@ Hibrid_Sleep.bat - English Version
 休眠與睡眠.bat - Big5繁體中文版本
 
 ## Require / 最低要求:
-Windows 7 or Above. / Win7或更高版本。
+Windows 7 and Above. / Win7或更高版本。
 
 ![Screenshot](Screenshot.PNG)
 
